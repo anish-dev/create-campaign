@@ -23,6 +23,23 @@
   color: #61dafb;
 }
 
+.create-campaign-component {
+  padding:15px;
+}
+.create-campaign-button {
+  background: #37305E;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.edit, .delete {
+  display: inline-block;
+  margin-left:29px;
+  cursor:pointer;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
